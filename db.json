@@ -1,4 +1,114 @@
 {
+	"filtrosPag1":{
+		"filtros":[
+			{
+				"idFiltro" : "fil001",
+				"nombreFiltro" : "Barridos a T2S01",
+				"idConciliacion" : "con001",
+				"nombreConciliacion" : "Barridos a T2S",
+				"activo":false
+			},
+			{
+				"idFiltro" : "fil002",
+				"nombreFiltro" : "Barridos a T2S02",
+				"idConciliacion" : "con001",
+				"nombreConciliacion" : "Barridos a T2S",
+				"activo":false
+			},
+			{
+				"idFiltro" : "fil003",
+				"nombreFiltro" : "Valores01",
+				"idConciliacion" : "con002",
+				"nombreConciliacion" : "Valores",
+				"activo":false
+			},
+			{
+				"idFiltro" : "fil004",
+				"nombreFiltro" : "Valores02",
+				"idConciliacion" : "con002",
+				"nombreConciliacion" : "Valores",
+				"activo":false
+			},
+			{
+				"idFiltro" : "fil005",
+				"nombreFiltro" : "Cupones01",
+				"idConciliacion" : "con003",
+				"nombreConciliacion" : "Cupones/Amortizaciones en Póliza",
+				"activo":false
+			},
+			{
+				"idFiltro" : "fil006",
+				"nombreFiltro" : "Cupones02",
+				"idConciliacion" : "con003",
+				"nombreConciliacion" : "Cupones/Amortizaciones en Póliza",
+				"activo":false
+			},
+			{
+				"idFiltro" : "fil002",
+				"nombreFiltro" : "OMS01",
+				"idConciliacion" : "con004",
+				"nombreConciliacion" : "OMS",
+				"activo":false
+			},
+			{
+				"idFiltro" : "fil003",
+				"nombreFiltro" : "OMS02",
+				"idConciliacion" : "con004",
+				"nombreConciliacion" : "OMS",
+				"activo":false
+			},
+			{
+				"idFiltro" : "fil004",
+				"nombreFiltro" : "OMS03",
+				"idConciliacion" : "con004",
+				"nombreConciliacion" : "OMS",
+				"activo":false
+			},
+			{
+				"idFiltro" : "fil005",
+				"nombreFiltro" : "MEFF01",
+				"idConciliacion" : "con007",
+				"nombreConciliacion" : "MEFF",
+				"activo":false
+			}			
+		],
+		"paginas":2,
+		"total": 14
+	},
+	"filtrosPag2":{
+		"filtros":[
+			{
+				"idFiltro" : "fil011",
+				"nombreFiltro" : "MEFF02",
+				"idConciliacion" : "con007",
+				"nombreConciliacion" : "MEFF",
+				"activo":false
+			},
+			{
+				"idFiltro" : "fil012",
+				"nombreFiltro" : "EFECTIVO01",
+				"idConciliacion" : "con008",
+				"nombreConciliacion" : "Gestión Efectivo",
+				"activo":false
+			},
+			{
+				"idFiltro" : "fil013",
+				"nombreFiltro" : "EFECTIVO02",
+				"idConciliacion" : "con008",
+				"nombreConciliacion" : "Gestión Efectivo",
+				"activo":false
+			},
+			{
+				"idFiltro" : "fil014",
+				"nombreFiltro" : "Impuestos01",
+				"idConciliacion" : "con009",
+				"nombreConciliacion" : "Impuestos",
+				"activo":false
+			}
+		],
+		"paginas":2,
+		"total":14
+	},
 "con001":{
 		"conciliacion":{
 			"idConciliacion":"con001",
