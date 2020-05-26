@@ -1,0 +1,35 @@
+{
+"con001":{
+		"conciliacion":{
+			"idConciliacion":"con001",
+			"nombreConciliacion":"Barrido a T2S",
+			"filtros":[
+				{
+					"idFiltro" : "fil001",
+					"nombreFiltro" : "LIQDIF01",
+					"activo" : false
+				},
+				{
+					"idFiltro" : "fil002",
+					"nombreFiltro" : "LIQDIF02",
+					"activo" : true
+				},
+				{
+					"idFiltro" : "fil003",
+					"nombreFiltro" : "LIQDIF03",
+					"activo" : false
+				},
+				{
+					"idFiltro" : "fil004",
+					"nombreFiltro" : "LIQDIF04",
+					"activo" : true
+				},
+				{
+					"idFiltro" : "fil005",
+					"nombreFiltro" : "LIQDIF05",
+					"activo" : false
+				}
+			]
+		}
+	}
+  }
