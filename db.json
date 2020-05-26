@@ -12,7 +12,7 @@
 				{
 					"idFiltro" : "fil002",
 					"nombreFiltro" : "LIQDIF02",
-					"activo" : true
+					"activo" : false
 				},
 				{
 					"idFiltro" : "fil003",
