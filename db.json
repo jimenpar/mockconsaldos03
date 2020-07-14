@@ -20,7 +20,7 @@
 				"nombreFiltro" : "Barridos a T2S02",
 				"idConciliacion" : "con001",
 				"nombreConciliacion" : "Barridos a T2S",
-				"activo":false
+				"activo":true
 			},
 			{
 				"idFiltro" : "fil003",
@@ -34,7 +34,7 @@
 				"nombreFiltro" : "Valores02",
 				"idConciliacion" : "con002",
 				"nombreConciliacion" : "Valores",
-				"activo":false
+				"activo":true
 			},
 			{
 				"idFiltro" : "fil005",
